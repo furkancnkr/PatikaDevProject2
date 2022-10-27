@@ -3,11 +3,11 @@ Merge Sort
 
 [16,21,11,8,12,22]
 
-# 1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+ 1- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 2- Big-O gösterimini yazınız.
 
-# 1- Merge Sort Aşamaları: # 
+ 1- Merge Sort Aşamaları:  
 
 - Başlangıçta dizimizi ikiye bölüp, bölünen diziler tekrar bölünüyor. Tek eleman kalana kadar İşlem devam ediyor.
 
@@ -27,7 +27,7 @@ Merge Sort
 
 7.adım: [8,11,12,16,21,22]
 
-# 2. Big-O gösterimini yazınız. #
+ 2. Big-O gösterimini yazınız. 
 
 Recursive bir fonksiyon olduğu için sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından
 
