@@ -27,7 +27,7 @@ Merge Sort
 
 7.adım: [8,11,12,16,21,22]
 
- 2. Big-O gösterimini yazınız. 
+2. Big-O gösterimini yazınız. 
 
 Recursive bir fonksiyon olduğu için sürekli kendini çağırarak diziyi hep ikiye bölmektedir. Her bölünmüş dizinin Merge işlemi için de dizinin uzunluğu olan n işlem yapıldığından
 
